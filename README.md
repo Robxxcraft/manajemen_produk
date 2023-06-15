@@ -1,6 +1,6 @@
 ## Manajemen Produk
 
-Hasil tes Junior Backend - Robbi Chandra
+Hasil tes Junior Programmer - Robbi Chandra
 
 
 **Aplikasi yang dibutuhkan
