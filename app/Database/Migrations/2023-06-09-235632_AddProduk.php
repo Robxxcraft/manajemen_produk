@@ -8,6 +8,7 @@ class AddProduk extends Migration
 {
     public function up()
     {
+        $this->db->create('manajemen_produk');
         $this->forge->addField([
             'id_produk' => [
                 'type'           => 'INT',
