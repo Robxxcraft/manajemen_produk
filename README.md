@@ -13,14 +13,13 @@ Hasil tes Junior Backend - Robbi Chandra
 ```sh
 git clone https://github.com/Robxxcraft/manajemen_produk
 ```
-<br>
+
 
 ### 2. Masuk ke dalam project yang telah disalin
 
 ```sh
 cd manajemen_produk
 ```
-<br />
 
 
 ### 3. Nyalakan Apache dan MySQL di Xampp
@@ -28,7 +27,6 @@ cd manajemen_produk
 ```sh
 tekan tombol start pada Apache dan MySQL
 ```
-<br />
 
 
 ### 4. Install package yang dibutuhkan
@@ -51,9 +49,10 @@ php spark db:create manajemen_produk
 php spark db:seed ProdukSeeder
 ```
 
+
 ### 7. Jalankan perintah di bawah ini untuk menjalankan aplikasi 
 
 ```sh
 php spark serve
 ```
-<br />
+
